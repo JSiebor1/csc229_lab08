@@ -50,7 +50,6 @@ class SinglyLinkedList {
         }
         System.out.println();
     }
-
 }
 
 public class CSC229_Lab08 {
@@ -92,7 +91,6 @@ public class CSC229_Lab08 {
         System.out.println("List of prime numbers with digit 3: ");
         primeThree.print();
         System.out.println("Sum of list primes with digit three: " + sum);
-
     }
 
     public static boolean isPrime(int x) {
